@@ -1,3 +1,7 @@
+using Diary_API.Domain;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using System;
 
 namespace Diary_API
 {
@@ -6,6 +10,13 @@ namespace Diary_API
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            var configuration = builder.Configuration;
+            builder.Services.AddDbContext<AppDbContext>(opt =>
+            opt.UseSqlServer(configuration.GetConnectionString("Diary_API"))
+            .EnableSensitiveDataLogging()
+            );
+
 
             // Add services to the container.
 

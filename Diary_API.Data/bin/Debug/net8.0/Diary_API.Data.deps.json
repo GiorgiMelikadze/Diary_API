@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Diary_API.Data/1.0.0": {
+        "runtime": {
+          "Diary_API.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diary_API.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

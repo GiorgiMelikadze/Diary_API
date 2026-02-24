@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Giorgi_Melikadze\\C#_practice\\Diary\\Diary_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B532530E-1A0F-4BFE-B58B-15BE967B1338}|Diary_API.Domain\\Diary_API.Domain.csproj|d:\\giorgi_melikadze\\c#_practice\\diary\\diary_api\\diary_api.domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B532530E-1A0F-4BFE-B58B-15BE967B1338}|Diary_API.Domain\\Diary_API.Domain.csproj|solutionrelative:diary_api.domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D0DA9C3-5A8C-4435-92DB-7CD679AAAA10}|Diary_API\\Diary_API.csproj|d:\\giorgi_melikadze\\c#_practice\\diary\\diary_api\\diary_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D0DA9C3-5A8C-4435-92DB-7CD679AAAA10}|Diary_API\\Diary_API.csproj|solutionrelative:diary_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Giorgi_Melikadze\\C#_practice\\Diary\\Diary_API\\Diary_API.Domain\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Diary_API.Domain\\AppDbContext.cs",
-              "ToolTip": "D:\\Giorgi_Melikadze\\C#_practice\\Diary\\Diary_API\\Diary_API.Domain\\AppDbContext.cs",
-              "RelativeToolTip": "Diary_API.Domain\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T09:33:44.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Giorgi_Melikadze\\C#_practice\\Diary\\Diary_API\\Diary_API\\Program.cs",
               "RelativeDocumentMoniker": "Diary_API\\Program.cs",
               "ToolTip": "D:\\Giorgi_Melikadze\\C#_practice\\Diary\\Diary_API\\Diary_API\\Program.cs",
               "RelativeToolTip": "Diary_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T07:09:18.34Z",
               "EditorCaption": ""

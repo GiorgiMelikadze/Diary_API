@@ -1,0 +1,12 @@
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\bin\Debug\net8.0\Diary_API.Data.deps.json
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\bin\Debug\net8.0\Diary_API.Data.dll
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\bin\Debug\net8.0\Diary_API.Data.pdb
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\obj\Debug\net8.0\Diary_API.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\obj\Debug\net8.0\Diary_API.Data.AssemblyInfoInputs.cache
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\obj\Debug\net8.0\Diary_API.Data.AssemblyInfo.cs
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\obj\Debug\net8.0\Diary_API.Data.csproj.CoreCompileInputs.cache
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\obj\Debug\net8.0\Diary_API.Data.sourcelink.json
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\obj\Debug\net8.0\Diary_API.Data.dll
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\obj\Debug\net8.0\refint\Diary_API.Data.dll
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\obj\Debug\net8.0\Diary_API.Data.pdb
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API.Data\obj\Debug\net8.0\ref\Diary_API.Data.dll
