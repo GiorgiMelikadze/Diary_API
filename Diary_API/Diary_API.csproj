@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -17,13 +17,16 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Middleware\" />
-    <Folder Include="Models\" />
+    <Folder Include="DTOs\" />
     <Folder Include="Validators\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Diary_API.Domain\Diary_API.Domain.csproj" />
+    <ProjectReference Include="..\Diary_API.Infrastructure\Diary_API.Infrastructure.csproj" />
   </ItemGroup>
+
+
+
 
 </Project>

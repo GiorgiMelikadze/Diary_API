@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TJTQQPnmIKQ=",
+  "dgSpecHash": "ULxcMDQQOKs=",
   "success": true,
-  "projectFilePath": "D:\\Giorgi_Melikadze\\C#_practice\\Diary\\Diary_API\\Diary_API.Data\\Diary_API.Data.csproj",
+  "projectFilePath": "D:\\Giorgi_Melikadze\\C#_practice\\Diary\\Diary_API\\Diary_API.Data\\Diary_API.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

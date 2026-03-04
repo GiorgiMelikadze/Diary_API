@@ -1,4 +1,4 @@
-using Diary_API.Domain;
+using Diary_API.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using System;
