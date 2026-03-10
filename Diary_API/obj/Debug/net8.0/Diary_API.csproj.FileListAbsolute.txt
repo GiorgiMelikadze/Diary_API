@@ -142,3 +142,5 @@ D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API\obj\Debug\net8.0\refin
 D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API\obj\Debug\net8.0\Diary_API.pdb
 D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API\obj\Debug\net8.0\Diary_API.genruntimeconfig.cache
 D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API\obj\Debug\net8.0\ref\Diary_API.dll
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API\bin\Debug\net8.0\FluentValidation.dll
+D:\Giorgi_Melikadze\C#_practice\Diary\Diary_API\Diary_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
