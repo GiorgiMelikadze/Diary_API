@@ -10,12 +10,27 @@ namespace Diary_API.Services
     {
         User Register(RegisterUserDto model);
         User Login(LoginDto model);
-        User GetById(int id);
+        //User GetById(int id);
+        //IEnumerable<User> GetAll();
+        //void DeleteUser(int id);
     }
 
     public class UserService : IUserService
     {
-        public User GetById(int id) => _context.Users.AsNoTracking().FirstOrDefault(x => x.Id == id);
+        //public void DeleteUser(int id)
+        //{
+        //    var user = _context.Users.FirstOrDefault(u => u.Id == id);
+
+        //    if (user == null)
+        //        throw new Exception("User not found");
+
+        //    _context.Users.Remove(user);
+        //    _context.SaveChanges();
+        //}
+
+        //public IEnumerable<User> GetAll() => _context.Users.AsNoTracking().ToList();
+
+        //public User GetById(int id) => _context.Users.AsNoTracking().FirstOrDefault(x => x.Id == id);
 
         public User Login(LoginDto model)
         {
@@ -47,8 +62,7 @@ namespace Diary_API.Services
             var user = new User
             {
                 Username = model.Username,
-                IsBlocked = false,
-                Role = "User"
+                IsBlocked = false
             };
 
             user.Password = _passwordHasher.HashPassword(user, model.Password);

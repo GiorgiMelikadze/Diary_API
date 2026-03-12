@@ -63,14 +63,33 @@ namespace Diary_API.Controllers
             });
         }
 
-        [HttpGet("{id}")]
-        public IActionResult GetById(int id)
-        {
-            var user = _userService.GetById(id);
-            if (user == null)
-                return NotFound();
-            return Ok(user);
-        }
+        //[HttpGet]
+        //[Authorize(Roles = "Admin")]
+        //public IActionResult GetAll()
+        //{
+        //    var users = _userService.GetAll();
+        //    return Ok(users);
+        //}
+
+
+        //[HttpDelete("users/{id}/delete")]
+        //[Authorize(Roles = "Admin")]
+        //public IActionResult DeleteUser(int id)
+        //{
+        //    _userService.DeleteUser(id);
+        //    _logger.LogInformation("Accountant deleted user {UserId}", id);
+        //    return Ok();
+        //}
+
+        //[HttpGet("{id}")]
+        //[Authorize(Roles = "Admin")]
+        //public IActionResult GetById(int id)
+        //{
+        //    var user = _userService.GetById(id);
+        //    if (user == null)
+        //        return NotFound();
+        //    return Ok(user);
+        //}
 
         [AllowAnonymous]
         [HttpPost("register")]
@@ -99,7 +118,8 @@ namespace Diary_API.Controllers
             return Ok(new
             {
                 user.Id,
-                user.Username
+                user.Username,
+                user.Role
             });
         }
 
